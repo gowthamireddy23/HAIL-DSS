@@ -5,6 +5,7 @@ Human AI Life Decision Support System is a team project developed to assist user
 - Decision analysis
 - Risk assessment
 - User-friendly interface
+  
 **Technologies Used**
 - React.js
 - Node.js
